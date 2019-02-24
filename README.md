@@ -5,7 +5,7 @@ Try it out yourself at https://www.techintern.site
 
 #### Technology Stack
 
- Markup :  * Python
+           * Python
            * Django
            * Gunicorn
            * Django Testing
@@ -17,5 +17,5 @@ Try it out yourself at https://www.techintern.site
 
 #### Screenshot:   
 
-Markup : ![picture alt](https://i.imgur.com/4L95zOu.png "screenshot of site")
+![picture alt](https://i.imgur.com/4L95zOu.png "screenshot of site")
 
