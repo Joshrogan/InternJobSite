@@ -17,5 +17,5 @@ Try it out yourself at https://www.techintern.site
 
 #### Screenshot:   
 
-![picture alt](https://i.imgur.com/ijpGiFf.png "screenshot of site")
+![picture alt](https://i.imgur.com/Cr6dLjm.png "screenshot of site")
 
