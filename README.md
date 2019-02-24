@@ -5,15 +5,15 @@ Try it out yourself at https://www.techintern.site
 
 #### Technology Stack
 
- Markup : * Python
-          * Django
-          * Gunicorn
-          * Django Testing
-          * Postgresql
-          * HTML/CSS
-          * Bootstrap
-          * Nginx
-          * Digital Ocean Ubuntu VM to host it and to manage DNS
+ Markup :  * Python
+           * Django
+           * Gunicorn
+           * Django Testing
+           * Postgresql
+           * HTML/CSS
+           * Bootstrap
+           * Nginx
+           * Digital Ocean Ubuntu VM to host it and to manage DNS
 
 #### Screenshot:   
 
