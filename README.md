@@ -8,7 +8,7 @@ Try it out yourself at https://www.techintern.site
            * Python
            * Django
            * Gunicorn
-           * Django Testing
+           * Django Testing Framework
            * Postgresql
            * HTML/CSS
            * Bootstrap
@@ -17,5 +17,5 @@ Try it out yourself at https://www.techintern.site
 
 #### Screenshot:   
 
-![picture alt](https://i.imgur.com/4L95zOu.png "screenshot of site")
+![picture alt](https://i.imgur.com/ijpGiFf.png "screenshot of site")
 
