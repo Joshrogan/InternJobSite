@@ -1,0 +1,14 @@
+
+{% extends 'base.html' %}
+
+{% block title %}Home{% endblock title %}
+
+{% block content %}
+<div class="jumbotron">
+  <h1 class="display-4">Irish Tech Interns</h1>
+  <p class="lead">Job Site For Irish Students Seeking Paid Tech Internships</p>
+  <p class="lead">
+    <a class="btn btn-primary btn-lg" href="{% url 'listing_list' %}" role="button">View Listings</a>
+  </p>
+</div>
+{% endblock content %}

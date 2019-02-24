@@ -1,0 +1,17 @@
+{% extends 'base.html' %}
+
+{% block title %}Job Listings{% endblock title %}
+
+{% block content %}
+  {% for listing in listing_list %}
+    <div class="card">
+      <div class="card-header">
+          <span class="font-weight-bold">{{ listing.company }} | {{ listing.role }} </span> 
+      </div>
+      <div class="card-body">
+        {{ listing.description }}
+      </div>
+    </div>
+    <br />
+  {% endfor %}
+{% endblock content %}
